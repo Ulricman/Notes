@@ -70,3 +70,19 @@ C:\Users\ulric\AppData\Local\Programs\oh-my-posh\themes\zash.omp.json
 效果如图：
 
 ![alt text](image-1.png)
+
+对于 powershell 背景的设置，比如透明度、背景图像等，可以在 powershell 中打开设置：
+
+![alt text](image-2.png)
+
+再打开 json 文件：
+
+![alt text](image-3.png)
+
+找到 json 文件中的 profiles 部分，在中间插入对应的设置即可：
+
+![alt text](image-4.png)
+
+# NAS 存储盘
+
+NAS(Network Attached Storage)，是指专门设计用于网络附加存储系统的硬盘。它允许多用户和不同客户端设备通过网络访问相同的数据。与普通硬盘相比，NAS 硬盘通常具有更好的耐用性、更长的保修期以及更高的工作负载，使其适合 24/7 不间断运行的需求。此外，NAS 系统往往支持冗余存储配置，如 RAID（独立冗余磁盘阵列），以提高数据的安全性和可靠性。
